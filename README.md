@@ -6,7 +6,7 @@ Challenges solved:
 ### 1. Introduction
 - [x] Finding Flags
 - [x] Great Snakes
-- [ ] Network Attacks
+- [x] Network Attacks
 ### 2. General
 ##### 2.1 Encoding
 - [ ] ASCII
