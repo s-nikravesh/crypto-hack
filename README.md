@@ -5,7 +5,7 @@ Here I share answers to those challenges.
 Challenges solved:
 ### 1. Introduction
 - [x] Finding Flags
-- [ ] Great Snakes
+- [x] Great Snakes
 - [ ] Network Attacks
 ### 2. General
 ##### 2.1 Encoding
