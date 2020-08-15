@@ -4,15 +4,15 @@ Here I share answers to those challenges.
 
 Challenges solved:
 ### 1. Introduction
-- [x] Finding Flags
-- [x] Great Snakes
-- [x] Network Attacks
+- [x] [Finding Flags](https://github.com/s-nikravesh/crypto-hack/blob/master/Introduction/Finding%20Flags.py)
+- [x] [Great Snakes](https://github.com/s-nikravesh/crypto-hack/blob/master/Introduction/Great%20Snakes.py)
+- [x] [Network Attacks](https://github.com/s-nikravesh/crypto-hack/blob/master/Introduction/Network%20Attacks.py)
 ### 2. General
 ##### 2.1 Encoding
-- [x] ASCII
-- [x] Hex
-- [x] Base64
-- [x] Bytes and Big Integers
+- [x] [ASCII](https://github.com/s-nikravesh/crypto-hack/blob/master/General/ASCII.py)
+- [x] [Hex](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Hex.py)
+- [x] [Base64](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Base64.py)
+- [x] [Bytes and Big Integers](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Bytes%20and%20Big%20Integers.py)
 - [ ] Encoding Challenge
 ##### 2.2 XOR
 - [ ] XOR Starter
