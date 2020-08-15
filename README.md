@@ -4,7 +4,7 @@ Here I share answers to those challenges.
 
 Challenges solved:
 ### 1. Introduction
-- [ ] Finding Flags
+- [x] Finding Flags
 - [ ] Great Snakes
 - [ ] Network Attacks
 ### 2. General
