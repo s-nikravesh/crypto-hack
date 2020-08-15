@@ -10,7 +10,7 @@ Challenges solved:
 ### 2. General
 ##### 2.1 Encoding
 - [x] ASCII
-- [ ] Hex
+- [x] Hex
 - [ ] Base64
 - [ ] Bytes and Big Integers
 - [ ] Encoding Challenge
