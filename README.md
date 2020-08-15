@@ -12,7 +12,7 @@ Challenges solved:
 - [x] ASCII
 - [x] Hex
 - [x] Base64
-- [ ] Bytes and Big Integers
+- [x] Bytes and Big Integers
 - [ ] Encoding Challenge
 ##### 2.2 XOR
 - [ ] XOR Starter
