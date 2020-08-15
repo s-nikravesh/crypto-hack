@@ -9,7 +9,7 @@ Challenges solved:
 - [x] Network Attacks
 ### 2. General
 ##### 2.1 Encoding
-- [ ] ASCII
+- [x] ASCII
 - [ ] Hex
 - [ ] Base64
 - [ ] Bytes and Big Integers
