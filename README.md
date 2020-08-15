@@ -11,7 +11,7 @@ Challenges solved:
 ##### 2.1 Encoding
 - [x] ASCII
 - [x] Hex
-- [ ] Base64
+- [x] Base64
 - [ ] Bytes and Big Integers
 - [ ] Encoding Challenge
 ##### 2.2 XOR
