@@ -13,7 +13,7 @@ Challenges solved:
 - [x] [Hex](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Hex.py)
 - [x] [Base64](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Base64.py)
 - [x] [Bytes and Big Integers](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Bytes%20and%20Big%20Integers.py)
-- [ ] Encoding Challenge
+- [x] [Encoding Challenge](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Encoding%20Challenge.py)
 ##### 2.2 XOR
 - [ ] XOR Starter
 - [ ] XOR Properties
