@@ -15,7 +15,7 @@ Challenges solved:
 - [x] [Bytes and Big Integers](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Bytes%20and%20Big%20Integers.py)
 - [x] [Encoding Challenge](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Encoding%20Challenge.py)
 ##### 2.2 XOR
-- [ ] XOR Starter
+- [x] [XOR Starter](https://github.com/s-nikravesh/crypto-hack/blob/master/General/XOR%20Starter.py)
 - [ ] XOR Properties
 - [ ] Favourite byte
 - [ ] You either know, XOR you don't
