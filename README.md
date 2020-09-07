@@ -16,7 +16,7 @@ Challenges solved:
 - [x] [Encoding Challenge](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Encoding%20Challenge.py)
 ##### 2.2 XOR
 - [x] [XOR Starter](https://github.com/s-nikravesh/crypto-hack/blob/master/General/XOR%20Starter.py)
-- [ ] XOR Properties
+- [x] [XOR Properties](https://github.com/s-nikravesh/crypto-hack/blob/master/General/XOR%20Properties.py)
 - [ ] Favourite byte
 - [ ] You either know, XOR you don't
 - [ ] Lemur XOR
