@@ -17,7 +17,7 @@ Challenges solved:
 ##### 2.2 XOR
 - [x] [XOR Starter](https://github.com/s-nikravesh/crypto-hack/blob/master/General/XOR%20Starter.py)
 - [x] [XOR Properties](https://github.com/s-nikravesh/crypto-hack/blob/master/General/XOR%20Properties.py)
-- [ ] Favourite byte
+- [x] [Favourite byte](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Favourite%20byte.py)
 - [ ] You either know, XOR you don't
 - [ ] Lemur XOR
 ##### 2.3 Mathematics
