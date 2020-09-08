@@ -18,7 +18,7 @@ Challenges solved:
 - [x] [XOR Starter](https://github.com/s-nikravesh/crypto-hack/blob/master/General/XOR%20Starter.py)
 - [x] [XOR Properties](https://github.com/s-nikravesh/crypto-hack/blob/master/General/XOR%20Properties.py)
 - [x] [Favourite byte](https://github.com/s-nikravesh/crypto-hack/blob/master/General/Favourite%20byte.py)
-- [ ] You either know, XOR you don't
+- [x] [You either know, XOR you don't](https://github.com/s-nikravesh/crypto-hack/blob/master/General/You%20either%20know,%20XOR%20you%20don't.py)
 - [ ] Lemur XOR
 ##### 2.3 Mathematics
 - [ ] Greatest Common Divisor
